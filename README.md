@@ -10,3 +10,6 @@ Author Emma Delaney
 http://www.zotero.org/styles/harvard-university-of-the-west-of-england
 Under license: http://creativecommons.org/licenses/by-sa/3.0/
 This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License
+
+### To do
++ validate each reference type against the UoEO referencing style guide
